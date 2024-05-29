@@ -4,7 +4,7 @@
 
 ### Objetivo 
 
-El objetivo de este documento es establecer una política de nomenclatura para el equipo de desarrollo, con el fin de mantener un código limpio, consistente y fácil de entender. La nomenclatura es un aspecto importante de la programación, ya que permite a los desarrolladores identificar rápidamente las variables, funciones, clases, etc., y comprender su propósito y uso. Al seguir una política de nomenclatura consistente, se mejora la legibilidad del código y se facilita la colaboración entre los miembros del equipo.
+El objetivo de este documento es establecer una política de nomenclatura para el equipo de desarrollo, con el fin de mantener un código limpio, consistente y fácil de entender.
 
 ### Convenciones de nomenclatura 
 
