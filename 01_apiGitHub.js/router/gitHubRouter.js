@@ -18,8 +18,21 @@ class GithubRouter {
     }
 
     setupRoutes() {
+        this.router.get("/GitHub", async (req, res) => {
+            try {
+                const owner = req.query.owner;
 
+                // const owner = 'google'
 
+                const response = await githubService.getPopularRepositories(owner);
+                res.json({
+                    data: response,
+                });
+
+            } catch (error) {
+                console.error('Error fetching repositories:', error);
+            }
+        });
     }
 
     getRouter() {
