@@ -27,7 +27,7 @@ Cada uno de estos servicios se puede implementar como una API RESTful, que se co
 
  
 
-# Que Tecnologías usarías para implementar esta arquitectura? 
+# Tecnologías utilizadas
 
 Para implementar esta arquitectura, se pueden utilizar las siguientes tecnologías:
 
